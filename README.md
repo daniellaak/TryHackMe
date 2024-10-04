@@ -43,21 +43,23 @@ I craked the hash using john following the above command:
 
 We've found a password! Now, heading back to the admin section, there's an option to download an archive file by clicking one of the links in the header. 
 You can download the archive.tar file by running: "tar -xvf archive.tar"
+<br>
 
 <img align="center" src="images/image7.png">
+<br>
 
 We've just discovered that these files are part of a backup created using Borg. we can install Borg and extract the files.
 We can use the following command to do this:
-<br><br>
+<br>
 
 <img align="center" src="images/image13.png">
-<br><br>
+<br>
 
 
 We will be prompted to enter the password we cracked earlier. Afterward, if we check the home directory, we’ll see that a new directory has been created.
 This new directory holds Alex's home directory. The Desktop folder contains a note congratulating us on our progress, while the Documents folder contains login credentials.
 
-<br><br>
+<br>
 
 <img align="center" src="images/image10.png">
 <br>
