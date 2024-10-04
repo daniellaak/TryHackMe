@@ -6,7 +6,8 @@ Deploy the machin and get a Target IP Address. I used a Kali virtual machine so 
 
 ## Task 2: Compromise the System
 I started by performing a port scan on the host using Nmap. The -sC and -sV flags ensure that basic vulnerability detection scripts are run against the target and that the scan attempts to identify the versions of services running on open ports.
-<br>
+<br><br>
+
 <img align="center" src="images/image1.png">
 <br>
 
@@ -15,6 +16,7 @@ We can answer questions 1-3 with the results of our nmap scan.
 Let’s check out the web server to see what’s there.
 
 <br>
+
 <img align="center" src="images/image3.png">
 <br>
 
