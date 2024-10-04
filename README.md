@@ -13,7 +13,6 @@ We can answer questions 1-3 with the results of our nmap scan.
 
 Next we are going to use Gobuster :
 
-<img align="center" src="images/image2.png">
 
 
 
