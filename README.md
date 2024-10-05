@@ -88,9 +88,8 @@ Run the following commands to become the root user:
 
 <img align="center" src="images/image12.png">
 <br>
+
 ## Thank you for taking the time to read my walkthrough!
-
-
 
 
 
