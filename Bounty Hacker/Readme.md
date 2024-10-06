@@ -23,7 +23,6 @@ We discovered task.txt file on it and a locks.txt file
 <br><br>
 
 <img align="center" src="Images/3.png">
-<br>
 
 ## Who wrote the task list?
 
